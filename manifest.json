@@ -5,9 +5,9 @@
   "display": "standalone",
   "name": "Don Agustin Carniceria",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/Don-agustin-web/",
   "short_name": "Don Agustin",
-  "start_url": "/",
+  "start_url": "/Don-agustin-web/",
   "theme_color": "#ffffff",
   "id": "don-agustin",
   "icons": [
