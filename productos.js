@@ -56,7 +56,6 @@ const products = [
   {
     category: "Pollo y otros",
     items: [
-      { name: "Pollo", price: "" },
       { name: "Chorizos", price: "$9.500" },
 { name: "Hígado", price: "$6.700" },
 { name: "Milanesas de hígado", price: "$4.900" },
