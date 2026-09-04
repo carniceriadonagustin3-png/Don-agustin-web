@@ -68,5 +68,19 @@ const products = [
 { name: "Patamuglo", price: "$4.900" },
 { name: "Filete de pollo", price: "$11.200" }
     ]
-  }
+  },
+  {
+  category: "Ofertas",
+  items: [
+    { name: "Chorizos 2 kg", price: "$15.000" },
+    { name: "Picada 2 kg", price: "$20.000" },
+    { name: "Milanesas de pollo 2 kg", price: "$14.000" },
+    { name: "Pulpas todas", price: "$19.900" },
+    { name: "Asados de cerdo", price: "$10.900" },
+    { name: "Costeletas de cerdo", price: "$18.200" },
+    { name: "Puchero", price: "$9.800" },
+    { name: "Costeleta de vaca", price: "$18.200" },
+    { name: "Puchero surtido", price: "$9.800" }
+  ]
+},
 ];
