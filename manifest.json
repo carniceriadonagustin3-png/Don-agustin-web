@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "Don Agustín Carnicería - Carne de primera en Venado Tuerto.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Don Agustin Carniceria",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Don Agustin",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "don-agustin"
+}
