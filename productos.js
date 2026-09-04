@@ -65,8 +65,8 @@ const products = [
 { name: "Pechuga", price: "$10.000" },
 { name: "Alitas", price: "$4.000" },
 { name: "Recortes", price: "$1.500" },
-{ name: "Patamuglo", price: "$4.900" },
-{ name: "Filete de pollo", price: "$11.200" }
+{ name: "Pata muslo", price: "$4.900" },
+{ name: "Filet de pollo", price: "$11.200" }
     ]
   },
   {
